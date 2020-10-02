@@ -37,7 +37,7 @@ main, #messages-card {
   margin: auto;
 }
 .material-icons {
-  font-size: 36px;
+  font-size: 38px;
   top: 8px;
   position: relative;
 }
@@ -47,7 +47,7 @@ main, #messages-card {
 }
 .mdl-card__supporting-text {
   width: auto;
-  height: 100%;
+  height: 90%;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -66,7 +66,7 @@ main, #messages-card {
 }
 .message-container {
   display: block;
-  margin-top: 10px;
+  margin-top: 9px;
   border-top: 1px solid #f3f3f3;
   padding-top: 10px;
   opacity: 0;
@@ -81,7 +81,7 @@ main, #messages-card {
   width: 30px;
   height: 30px;
   background-size: 30px;
-  border-radius: 20px;
+  border-radius: 18px;
 }
 .message-container .spacing {
   display: table-cell;
